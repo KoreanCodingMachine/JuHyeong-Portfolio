@@ -1,2 +1,2 @@
 # portfolio
- Ellie's portfolio
+ JuHyeong's portfolio
