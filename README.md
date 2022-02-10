@@ -1,2 +1,2 @@
-# JuHyeong-Portfolio
- 
+# portfolio
+ Ellie's portfolio
